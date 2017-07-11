@@ -1,0 +1,468 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=7" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>西南大学体育学院</title>
+<meta name="keywords" content="西南大学体育学院">
+<meta name="description" content="西南大学体育学院">
+<link href="/r/cms/tyxy/hntidu/hntidu/index.css" rel="stylesheet" type="text/css" />
+<link href="/r/cms/tyxy/hntidu/hntidu/pubcss.css" rel="stylesheet" type="text/css" />
+<link href="/r/cms/tyxy/hntidu/hntidu/lrtk.css" rel="stylesheet" type="text/css" />
+</head>
+
+<body>
+<!--banner-->
+<script type="text/javascript">
+
+    var timeout = 500;
+    var closetimer = 0;
+    var ddmenuitem = 0;
+
+    // open hidden layer
+    function mopen(id) {
+        // cancel close timer
+        mcancelclosetime();
+
+        // close old layer
+        if (ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+
+        // get new layer and show it
+        ddmenuitem = document.getElementById(id);
+        ddmenuitem.style.visibility = 'visible';
+
+    }
+    // close showed layer
+    function mclose() {
+        if (ddmenuitem) ddmenuitem.style.visibility = 'hidden';
+    }
+
+    // go close timer
+    function mclosetime() {
+        closetimer = window.setTimeout(mclose, timeout);
+    }
+
+    // cancel close timer
+    function mcancelclosetime() {
+        if (closetimer) {
+            window.clearTimeout(closetimer);
+            closetimer = null;
+        }
+    }
+
+    // close layer when click-out
+    document.onclick = mclose; 
+// -->
+</script>
+
+<div class="banner">
+  <div> <a  style="color:#13767d;cursor:hand" onclick=this.style.behavior="url(#default#homepage)";this.setHomePage("http://tyxy.swu.edu.cn/");><span style="color:#13767d;font-size:12px">设为首页</span></a> | <a onClick="window.external.AddFavorite(location.href,document.title)" style="cursor:hand;color:blue"><span style="color:#13767d;font-size:12px">加入收藏</span></a> </div>
+</div>
+<!--@banner--> 
+<!--nav-->
+<div class="nav">
+  <div class="nav980">
+    <ul id="sddm">
+                      <li><a style="background:none;" href="/s/tyxy/" onmouseover="mopen('m0')" onmouseout="mclosetime()" class="selected">首页</a>
+               <div id="m0" onmouseover="mcancelclosetime()" onmouseout="mclosetime()"> </div>
+             </li>
+                      <li><a href="/s/tyxy/xygk/"  style="background:none;" onmouseover="mopen('m1')" onmouseout="mclosetime()" >学院概况</a>
+                        <div id="m1" onmouseover="mcancelclosetime()" onmouseout="mclosetime()"> 
+                                    <a style="background:none;" href="/s/tyxy/xyjj.html">学院简介</a> <a style="background:none;" href="/s/tyxy/xyld.html">学院领导</a> <a style="background:none;" href="/s/tyxy/xyzx/">学院资讯</a> <a style="background:none;" href="/s/tyxy/xygzzd/">规章制度</a> <a style="background:none;" href="/s/tyxy/lxfs.html">联系方式</a>
+                        </div>
+                      </li>
+                      <li><a href="/s/tyxy/szdw/"  style="background:none;" onmouseover="mopen('m2')" onmouseout="mclosetime()" >师资队伍</a>
+                        <div id="m2" onmouseover="mcancelclosetime()" onmouseout="mclosetime()"> 
+                                    <a style="background:none;" href="/s/tyxy/bssds/">博士生导师</a> <a style="background:none;" href="/s/tyxy/js/">教授</a> <a style="background:none;" href="/s/tyxy/fjs/">副教授</a> <a style="background:none;" href="/s/tyxy/sssds/">硕士生导师</a> <a style="background:none;" href="/s/tyxy/jshi/">讲师</a> <a style="background:none;" href="http://tyxy.swu.edu.cn:80/zj/index.jhtml">助教</a> <a style="background:none;" href="/s/tyxy/xzhq/">行政后勤</a> <a style="background:none;" href="/s/tyxy/zgganb/">政工干部</a>
+                        </div>
+                      </li>
+                      <li><a href="/s/tyxy/zsgz/"  style="background:none;" onmouseover="mopen('m3')" onmouseout="mclosetime()" >招生</a>
+                        <div id="m3" onmouseover="mcancelclosetime()" onmouseout="mclosetime()"> 
+                                   
+                        </div>
+                      </li>
+                      <li><a href="/s/tyxy/jxgl/"  style="background:none;" onmouseover="mopen('m4')" onmouseout="mclosetime()" >教学管理</a>
+                        <div id="m4" onmouseover="mcancelclosetime()" onmouseout="mclosetime()"> 
+                                    <a style="background:none;" href="/s/tyxy/bksjxgl/">本科生教学管理</a> <a style="background:none;" href="/s/tyxy/yjsjxgl/">研究生教学管理</a>
+                        </div>
+                      </li>
+                      <li><a href="/s/tyxy/xsyj/"  style="background:none;" onmouseover="mopen('m5')" onmouseout="mclosetime()" >学术研究</a>
+                        <div id="m5" onmouseover="mcancelclosetime()" onmouseout="mclosetime()"> 
+                                   
+                        </div>
+                      </li>
+                      <li><a href="/s/tyxy/jsxl/"  style="background:none;" onmouseover="mopen('m6')" onmouseout="mclosetime()" >竞赛训练</a>
+                        <div id="m6" onmouseover="mcancelclosetime()" onmouseout="mclosetime()"> 
+                                   
+                        </div>
+                      </li>
+                      <li><a href="/s/tyxy/dqgz/"  style="background:none;" onmouseover="mopen('m7')" onmouseout="mclosetime()" >党群工作</a>
+                        <div id="m7" onmouseover="mcancelclosetime()" onmouseout="mclosetime()"> 
+                                    <a style="background:none;" href="/s/tyxy/zzjg/">组织机构</a> <a style="background:none;" href="/s/tyxy/dwgk/">党务公开</a> <a style="background:none;" href="/s/tyxy/gzzd/">规章制度</a> <a style="background:none;" href="/s/tyxy/djzc/">党建之窗</a> <a style="background:none;" href="/s/tyxy/qtgz/">群团工作</a> <a style="background:none;" href="/s/tyxy/ejjw/">二级纪委</a>
+                        </div>
+                      </li>
+                      <li><a href="/s/tyxy/xsgz/"  style="background:none;" onmouseover="mopen('m8')" onmouseout="mclosetime()" >学生工作</a>
+                        <div id="m8" onmouseover="mcancelclosetime()" onmouseout="mclosetime()"> 
+                                    <a style="background:none;" href="/s/tyxy/xgdt/">学工动态</a> <a style="background:none;" href="/s/tyxy/xggzzd/">规章制度</a> <a style="background:none;" href="/s/tyxy/twxsh/">团委学生会</a> <a style="background:none;" href="/s/tyxy/bjdt/">班级动态</a>
+                        </div>
+                      </li>
+                      <li><a href="/s/tyxy/ggty/"  style="background:none;" onmouseover="mopen('m9')" onmouseout="mclosetime()" >公体</a>
+                        <div id="m9" onmouseover="mcancelclosetime()" onmouseout="mclosetime()"> 
+                                   
+                        </div>
+                      </li>
+                      <li><a href="/s/tyxy/ztwz/"  style="background:none;" onmouseover="mopen('m10')" onmouseout="mclosetime()" >专题</a>
+                        <div id="m10" onmouseover="mcancelclosetime()" onmouseout="mclosetime()"> 
+                                    <a style="background:none;" href="/s/tyxy/cqdxstjxh/">重庆市大学生田径协会</a> <a style="background:none;" href="/s/tyxy/xqzl/">校庆专栏</a> <a style="background:none;" href="/s/tyxy/zdsys/">体育总局体质评价与运动机能监控重点实验室</a> <a style="background:none;" href="/s/tyxy/cgydy.html">场馆预订</a> <a style="background:none;" href="/s/tyxy/liyue/">西大学子里约奥运专题</a>
+                        </div>
+                      </li>
+                      <li><a href="/s/tyxy/zjzdsys/"  style="background:none;" onmouseover="mopen('m11')" onmouseout="mclosetime()" >重点实验室</a>
+                        <div id="m11" onmouseover="mcancelclosetime()" onmouseout="mclosetime()"> 
+                                   
+                        </div>
+                      </li>
+    </ul>
+  </div>
+</div>
+<!--@nav--> 
+<!--tips-->
+<div class="tips">
+  <div class="tips_L"></div>
+  <div class="tips_C">
+    <div class="weather1">
+        <div style="text-align:right; width:580px; float:right" id=UserLogin>
+            西南大学体育学院欢迎您！!</a>
+        </div>
+    </div>
+    <!--search-->
+    <script>
+        //delay延迟时间（毫秒）
+        $(function () {
+            $("input[name=q]").autocomplete({
+                source: "/search/v_ajax_list.jspx",
+                minLength: 2,
+                max: 5,
+                delay: 100,
+                autoFocus: true,
+                select: function (e, ui) {
+                    $("input[name='q']").val(ui.item.value);
+                    $("#searchForm").submit();
+                },
+                success: function (data) {
+                    response($.map(data.items, function (item) {
+                        return {
+                            label: '<B>' + item.id + '</B><br>' + item.label,
+                            value: item.id
+                        }
+                    }));
+                }
+            });
+        });
+        function qkeypress() {
+            var q = $("input[name=q]");
+            if (q.val().trim() != "") {
+                $("input[name=q]").autocomplete("enable");
+            } else {
+                $("input[name=q]").autocomplete("disable");
+            }
+        }
+</script>
+
+   
+    <!--@search--> 
+  </div>
+  <div class="tips_R"></div>
+</div>
+<!--@tips-->  <!--content1-->
+<div class="content1"> 
+  <!--left-->
+  <div class="con1_L">
+    <div class="con1_L_tit"><img src="/r/cms/tyxy/hntidu/hntidu/images/neirong.jpg" width="697" height="44" border="0" usemap="#Map" />
+      <map name="Map" id="Map">
+        <area shape="rect" coords="642,13,688,31" href="http://tyxy.swu.edu.cn/s/tyxy/xyzx/" />
+      </map>
+    </div>
+    <div class="con1_L_body">
+      <div class="con1_L_body_L">
+        <table width="228" height="156" border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="228">
+<script type="text/javascript">
+
+                                      imgUrl1 = "/r/cms/www/no_picture.gif";
+                                      imgtext1 = "台湾师范大学运动与休闲学院师生到访西";
+                                      imgLink1 = escape("/s/tyxy/xyzx/20170401/1832080.html");
+                                      imgUrl2 = "/u/cms/tyxy/201612/07090951vh25_211.jpg";
+                                      imgtext2 = "学校主办“2016年高等学校动商与教育发";
+                                      imgLink2 = escape("/s/tyxy/xyzx/20161207/1621785.html");
+                                      imgUrl3 = "/u/cms/tyxy/201611/2410140277cb_8a42780.jpg";
+                                      imgtext3 = "完美收官！我院学子征战世界大学生举重";
+                                      imgLink3 = escape("/s/tyxy/xyzx/20161124/1606639.html");
+
+                                var focus_width = 228;
+                                var focus_height = 166;
+                                var text_height = 22;
+                                var swf_height = focus_height + text_height;
+
+                                var pics = imgUrl1 + "|" + imgUrl2 + "|" + imgUrl3;
+                                var links = imgLink1 + "|" + imgLink2 + "|" + imgLink3;
+                                var texts = imgtext1 + "|" + imgtext2 + "|" + imgtext3;
+
+                                document.write('<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="' + focus_width + '" height="' + swf_height + '">');
+                                document.write('<param name="allowScriptAccess" value="sameDomain"><param name="movie" value="/r/cms/tyxy/hntidu/hntidu/images/focus2.swf"><param name="quality" value="high"><param name="bgcolor" value="#F0F0F0">');
+                                document.write('<param name="menu" value="false"><param name=wmode value="opaque">');
+                                document.write('<param name="FlashVars" value="pics=' + pics + '&links=' + links + '&texts=' + texts + '&borderwidth=' + focus_width + '&borderheight=' + focus_height + '&textheight=' + text_height + '">');
+                                document.write(' <embed ' +
+                                            'width="' +
+                                            focus_width +
+                                            '"' +
+                                            'height="' +
+                                            swf_height +
+                                            '"' +
+                                            'src="/r/cms/tyxy/hntidu/hntidu/images/focus2.swf"' +
+                                            'allowScriptAccess="sameDomain"' +
+                                            'quality="high"' +
+                                            'bgcolor="#F0F0F0"' +
+                                            'menu="false"' +
+                                            'wmode="opaque"' +
+                                            'FlashVars="pics=' +
+                                            pics +
+                                            '&links=' +
+                                            links +
+                                            '&texts=' +
+                                            texts +
+                                            '&borderwidth=' +
+                                            focus_width +
+                                            '&borderheight=' +
+                                            focus_height +
+                                            '&textheight=' +
+                                            text_height +
+                                            '"' +
+                                            '>' +
+                                            ' </embed>');
+
+                                document.write('</object>');
+            </script>
+
+</td>
+          </tr>
+        </table>
+      </div>
+      <div class="con1_L_body_R">
+                      <div class="con1_L_body_R_1"> 
+                           <div class="con1_L_body_R_1_1"><a class="con1_L_body_R_1_1" href="/s/tyxy/xyzx/20170614/1882830.html" title="体育学院举办留学回国人员学术报告会 " target="_blank">体育学院举办留学回国人员学术报告会 </a>
+                               <div style="padding:0px 20px"></div>
+                           </div>
+                      </div>
+                                      
+                   <ul class="con1_L_body_R_2">
+                        <li>
+                       <div class="txt"><a href="/s/tyxy/xyzx/20170602/1878149.html" target=_blank>体育学院举办留学回国人员学术报告会</a></div>
+                     </li>
+                        <li>
+                       <div class="txt"><a href="/s/tyxy/xyzx/20170407/1841500.html" target=_blank>体育学院2017年教育学博士研究生 招生拟录取办法</a></div>
+                     </li>
+                        <li>
+                       <div class="txt"><a href="/s/tyxy/xyzx/20170401/1832080.html" target=_blank>台湾师范大学运动与休闲学院师生到访西南大学</a></div>
+                     </li>
+                        <li>
+                       <div class="txt"><a href="/s/tyxy/xyzx/20170323/1753018.html" target=_blank>西南大学2017年体育学院研究生复试工作方案</a></div>
+                     </li>
+                        <li>
+                       <div class="txt"><a href="/s/tyxy/xyzx/20170112/1649960.html" target=_blank>重庆市大学生体育协会拳击分会2016年年会在西南大学体育学院顺利召开</a></div>
+                     </li>
+                        <li>
+                       <div class="txt"><a href="/s/tyxy/xyzx/20161207/1621785.html" target=_blank>学校主办“2016年高等学校动商与教育发展论坛”</a></div>
+                     </li>
+                        <li>
+                       <div class="txt"><a href="/s/tyxy/xyzx/20161206/1621131.html" target=_blank>关于召开重庆市大学生体育协会田径分会第四届委员会 全体委员会议的通知</a></div>
+                     </li>
+                    </ul>
+      </div>
+    </div>
+    <div class="con1_L_btm"></div>
+  </div>
+  <!--@left--> 
+  <!--right-->
+<div class="pubMod1" style="margin-top:3px;">
+    <div class="pubMod1_tit">
+      <div>学院简介</div>
+      <a href="http://tyxy.swu.edu.cn/s/tyxy/xyjj.html">更多</a></div>
+    <div class="pubMod1_body">
+      <div>西南大学体育学院前身是成立于1940年的国立女子师范学院体育专修科，1950年经教育部批准，由国立女子院与川教院合并成立西南师范学院，设体育专修科，1951年重庆大学体育专修科并入西南师范学院，设立体育科，1959年西南师范学院体育科调整并入重庆体育学院。1978年经四川省教委批准，西南师范学院正式设立体育系，1985年更名为西南师范大学体育系。1993年成立西南...&nbsp;&nbsp;<a href="http://tyxy.swu.edu.cn/s/tyxy/xyjj.html" class="a_R"><span style="color:#f00">更多》</span></a></div>
+    </div>
+    <div class="pubMod1_bot"></div>
+  </div>  <!--@right--> 
+</div>
+<!--@content1--> 
+<!--content2-->
+<div class="content2"> 
+  <!--mod-->
+  <div class="con2_L">
+    <div class="con2_L_tit">
+      <div>教学管理</div>
+      <a href="http://tyxy.swu.edu.cn/s/tyxy/jxgl/">更多</a></div>
+    <div class="con2_L_body">
+      <ul class="">
+                    <li><div class="txt"><a href="/s/tyxy/bksjxgl/20160526/1022802.html" target=_blank>西南大学本科课程备课教案模板（理论课程类）</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/bksjxgl/20160526/1022793.html" target=_blank>西南大学本科课程备课教案模板（体育术科类）</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/yjsjxgl/20151207/132981.html" target=_blank>免费师范毕业生在职攻读教育硕士网络共享课程信息</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/bksjxgl/20151207/132927.html" target=_blank>西南大学优秀教学成果奖励实施办法</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/bksjxgl/20151207/132919.html" target=_blank>国家教育考试违规处理办法</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/bksjxgl/20151207/132916.html" target=_blank>西南大学学生综合考评办法（试行）</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/bksjxgl/20151207/132913.html" target=_blank>西南大学学生违纪处分规定（试行）</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/bksjxgl/20151207/132910.html" target=_blank>西南大学学生管理规定（试行）</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/bksjxgl/20151207/132906.html" target=_blank>高等学校本科专业设置规定</a></div></li>
+      </ul>
+    </div>
+    <div class="con2_L_bot"></div>
+  </div>
+  <!--@mod--> 
+  <!--mod-->
+  <div class="con2_L" style="margin-left:15px;">
+    <div class="con2_L_tit">
+      <div>学生工作</div>
+      <a href="http://tyxy.swu.edu.cn/s/tyxy/xgdt/">更多</a></div>
+    <div class="con2_L_body">
+      <ul class="">
+                    <li><div class="txt"><a href="/s/tyxy/xgdt/20170531/1877093.html" target=_blank>体育学院党员发展公示(2017-05-31)</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/xgdt/20161104/1482932.html" target=_blank>体育学院党员发展公示</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/xgdt/20161102/1481369.html" target=_blank>体育学院预备党员转正公示 </a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/xgdt/20161013/1425699.html" target=_blank>体育学院2015—2016学年度评优评奖结果公示</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/xgdt/20161012/1386442.html" target=_blank>体育学院本科学生综合考评实施细则</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/xgdt/20160914/1365395.html" target=_blank>体育学院第十一届田径运动会章程及报名表</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/xggzzd/20151207/132565.html" target=_blank>西南大学学生社团管理办法（试行）</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/xggzzd/20151207/132562.html" target=_blank>西南大学暑期“三下乡”社会实践活动总结表彰办法</a></div></li>
+                    <li><div class="txt"><a href="/s/tyxy/xggzzd/20151207/132554.html" target=_blank>西南大学学生勤工助学管理办法（试行）</a></div></li>
+       </ul>
+    </div>
+    <div class="con2_L_bot"></div>
+  </div>
+  <!--@mod--> 
+  <!--mod1-->
+  <div class="pubMod1">
+    <div class="pubMod1_tit" style=" background:url(/r/cms/tyxy/hntidu/hntidu/images/index0_46.jpg); text-indent:30px;">
+      <div>党群工作</div>
+      <a href="http://tyxy.swu.edu.cn/s/tyxy/dwgk/">更多</a></div>
+    <div class="pubMod1_body" style="height:204px;">
+      <div><a href="/index.php?m=content&c=search&a=init&catid=10&orderby=a.id+DESC&rand=1378518444&dosubmit=1&dosubmit=0&info%5Btitle%5D=%E7%BE%A4%E4%BC%97%E8%B7%AF%E7%BA%BF"><img src="/r/cms/tyxy/hntidu/hntidu/images/dfdfdf.jpg" width="247" height="70" /></a></div>
+      <ul class="">
+                    <li><a href="/s/tyxy/ejjw/20160401/836422.html" target=_blank>西南大学体育学院领导班子 2016年党风</a></li>
+                    <li><a href="/s/tyxy/ejjw/20151207/132739.html" target=_blank>中国共产党纪律处分条例 （二）</a></li>
+                    <li><a href="/s/tyxy/ejjw/20151207/132736.html" target=_blank>中国共产党纪律处分条例（一）</a></li>
+                    <li><a href="/s/tyxy/ejjw/20151207/132733.html" target=_blank>中国共产党廉洁自律准则</a></li>
+                    <li><a href="/s/tyxy/ejjw/20151207/132730.html" target=_blank>中共西南大学体育学院纪委工作规程</a></li>
+        </ul>
+    </div>
+    <div class="pubMod1_bot"></div>
+  </div>
+  
+  <!--@mod1-->
+  
+  <div class="con2_R"></div>
+</div>
+<!--@content2--> 
+
+<!--ads-->
+<div class="ads"> <a href="http://tyxy.swu.edu.cn/s/tyxy/liyue/" target="_blank"><img src="/r/cms/tyxy/hntidu/hntidu/images/3j.jpg" width="980" height="79" /></a> </div>
+<!--@ads--> 
+
+<!--content2-->
+<div class="content2"> 
+  <!--mod-->
+<div class="con2_L">
+    <div class="con2_L_tit">
+      <div>公共体育</div>
+      <a href="http://tyxy.swu.edu.cn/s/tyxy/ggty/">更多</a></div>
+    <div class="con2_L_body">
+     <ul class="">
+                    <li><div class="txt"><a href="/s/tyxy/ggty/20160503/937054.html" target=_blank>免予执行《国家学生体质健康标准》申请表</a></div></li>
+       </ul>
+    </div>
+    <div class="con2_L_bot"></div>
+  </div>
+  <!--@mod--> 
+  <!--mod-->
+  <div class="con2_L" style="margin-left:15px;">
+    <div class="con2_L_tit">
+      <div>研究生教育管理</div>
+      <a href="http://tyxy.swu.edu.cn/s/tyxy/yjsjxgl/">更多</a></div>
+    <div class="con2_L_body">
+      <ul class="">
+                    <li><div class="txt"><a href="/s/tyxy/yjsjxgl/20151207/132981.html" target=_blank>免费师范毕业生在职攻读教育硕士网络共享课程信息</a></div></li>
+       </ul>
+    </div>
+    <div class="con2_L_bot"></div>
+  </div>
+  <!--@mod--> 
+  <!--mod1-->
+ <div class="pubMod1">
+    <div class="pubMod1_tit">
+      <div>招生工作</div>
+      <a href="http://tyxy.swu.edu.cn/s/tyxy/zsgz/">更多</a></div>
+    <div class="pubMod1_body" style="height:204px;">
+      <div> <a target="_blank" href="http://bkzsw.swu.edu.cn/s/bkzsw/index1/"><img src="/
+
+r/cms/tyxy/hntidu/hntidu/images/dfeeer.jpg" width="247" height="70" /></a>
+        <ul class="">
+                    <li><a href="/s/tyxy/zsgz/20151207/133459.html" target=_blank>2016年西南大学体育学院接收推免生拟录</a></li>
+                    <li><a href="/s/tyxy/zsgz/20151207/133456.html" target=_blank>西南大学体育学院2016年学术型硕士研究</a></li>
+                    <li><a href="/s/tyxy/zsgz/20151207/133453.html" target=_blank>体育学院2015年硕士研究生拟录取名单公</a></li>
+                    <li><a href="/s/tyxy/zsgz/20151207/133450.html" target=_blank>体育学院2015年硕士研究生第二批复试名</a></li>
+                    <li><a href="/s/tyxy/zsgz/20151207/133447.html" target=_blank>2015年体育学院研究生复试通知</a></li>
+          </ul>
+      </div>
+    </div>
+    <div class="pubMod1_bot"></div>
+  </div>
+  
+  <!--@mod1-->
+  
+  
+  
+  <!--@mod1--> 
+  <!--@right--> 
+</div>
+<!--@content3--> 
+<!--footer--> 
+<!--content4-->
+<div class="content4"> 
+  <!--领导信箱-->
+<div class="ld_mail"> <img src="/r/cms/tyxy/hntidu/hntidu/images/ldmail.jpg" width="697" height="86" border="0" usemap="#Map3" />
+    <map name="Map3" id="Map3">
+      <area shape="rect" coords="11,3,338,83" href="#" alt="书记信箱" />
+      <area shape="rect" coords="349,4,692,82" href="#" alt="院长信箱" />
+    </map>
+  </div>  <!--@领导信箱--> 
+  <!--友情链接-->
+ <div class="f_link">
+    <select style="margin-top:14px;">
+      <option value="http://www.swu.edu.cn/">西南大学</option>
+      <option value="校内链接">西南大学学院设置</option>
+      <option value="校内链接">西南大学机构设置</option>
+      <option value="校内链接">西南大学体委</option>
+    </select>
+    <select size="1" name="22">
+      <option value="北京体育大学">北京体育大学</option>
+      <option value="上海体育学院">上海体育学院</option>
+      <option value="北京师范大学">北京师范大学</option>
+    </select>
+  </div> 
+  <!--@友情链接--> 
+</div>
+<!--@content4--> 
+<div class="footer">
+  <div class="footer_T"></div>
+  <div class="footer_C">
+    <div class="div1"><a href="http://tyxy.swu.edu.cn/s/tyxy/xyjj.html">学院简介</a> - <a href="/lxfs.html">联系我们</a> -  <a target="_blank" href="http://222.198.118.160/jeeadmin/jeecms/index.do">管理登陆</a> </div>
+    <div>Copyright (C) 2004－2009 体育学院 　 中国重庆北碚西南大学体育学院&nbsp; 邮编：400715<br />
+      学院电话：023-68252345&nbsp; 学院传真：023-68252345<br />
+      网管联系电话：023－68254230&nbsp; 网管信箱：langjun@swnu.edu.cn 
+      &nbsp;</div>
+  </div>
+  <div class="footer_B"></div>
+</div><!--@footer-->
+</body>
+</html>
